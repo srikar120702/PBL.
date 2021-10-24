@@ -1,1 +1,1 @@
-This is a sample repo for learning 
+This is a sample repo for learning. 
